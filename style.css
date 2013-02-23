@@ -1,0 +1,41 @@
+.hjt_newsflash ul.ui-tabs-nav { 
+	position:absolute;
+	top:0; right:0;
+	list-style:none; 
+	padding:0; margin:0;
+}
+
+.hjt_newsflash ul.ui-tabs-nav li { 
+	padding:0; 
+	font-size:12px; 
+}
+
+.hjt_newsflash li.ui-tabs-nav-item a { 
+	display:block; 
+	padding-left:5px;
+	text-decoration:none;
+	overflow:hidden;
+}
+
+.hjt_newsflash .infotext h2 { 
+	padding:5px 15px;
+	margin:0;
+	overflow:hidden;
+}
+
+.hjt_newsflash .infotext p {
+	overflow:hidden;
+	padding: 0 15px;
+}
+
+.hjt_newsflash .infotext a:hover { 
+	text-decoration:none; 
+}
+
+.hjt_newsflash .ui-tabs-hide { 
+	display:none; 
+}
+
+.hjt_newsflash img {
+	border:none;
+}
