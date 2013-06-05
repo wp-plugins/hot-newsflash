@@ -972,6 +972,15 @@ class HotNewsflash extends WP_Widget {
 </div>
 
 <script type="text/javascript" >
+   try{ 
+    jQuery('.widgets-holder-wrap .widget').css({
+		'overflow':'visible'
+    });
+	
+   }catch(exc){}
+</script>
+
+<script type="text/javascript" >
 	
 	try{
 		jscolor.init();
