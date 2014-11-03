@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Hot Newsflash
-Plugin URI: http://www.hotjoomlatemplates.com/free-wordpress-plugins/207-hot-newsflash-plugin
-Description: The "HOT Newsflash" plugin is a fully configurable, featured articles rotator, based on jQuery.
+Plugin URI: http://hot-themes.com/wordpress/plugins/newsflash/
+Description: Hot Newsflash plugin is a fully configurable, featured articles rotator, based on jQuery.
 Author: HotThemes
-Author URI: http://www.hotjoomlatemplates.com
-Version: 1.0
+Author URI: http://hot-themes.com/
+Version: 1.1
 Tags: content, widget, jquery
 License: GNU/GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

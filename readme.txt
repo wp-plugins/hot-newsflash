@@ -1,16 +1,16 @@
 === Plugin Name ===
 Contributors: HotThemes
-Donate link: http://www.hotjoomlatemplates.com/free-wordpress-plugins
+Donate link: http://hot-themes.com/wordpress/plugins/newsflash/
 Tags: tabs, slideshow, rotator
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 
 Hot Newsflash by HotThemes is a rotator of the tabs. Each tab contains heading, image, text and more link.
 
 == Description ==
 
-Hot NewsFlash plugin by [HotThemes](http://www.hotjoomlatemplates.com/free-wordpress-plugins "HotThemes") is a rotator of the tabs based on jQuery UI. Each tab contains heading, image, text and more link. It's possible can rotate up to 5 tabs. The dimensions and colors of the widget are fully configurable.
+Hot NewsFlash plugin by [HotThemes](http://hot-themes.com/ "HotThemes") is a rotator of the tabs based on jQuery UI. Each tab contains heading, image, text and more link. It's possible can rotate up to 5 tabs. The dimensions and colors of the widget are fully configurable.
 
 == Installation ==
 
@@ -28,3 +28,6 @@ Hot NewsFlash plugin by [HotThemes](http://www.hotjoomlatemplates.com/free-wordp
 
 = 1.0 =
 * The first release
+
+= 1.1 =
+* Compatibility with WordPress 4.0
