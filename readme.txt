@@ -18,7 +18,7 @@ Hot NewsFlash plugin by [HotThemes](http://hot-themes.com/ "HotThemes") is a rot
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Publish the Hot NewsFlash widget in one of available widget positions.
 4. Click on the widget will open all Hot NewsFlash options.
-5. Detailed explanation of each plugin option and live demo can be found on [Newsflash](http://www.hotjoomlatemplates.com/free-wordpress-plugins/207-hot-newsflash-plugin "Newsflash") page.
+5. Detailed explanation of each plugin option and live demo can be found on [Newsflash](http://hot-themes.com/wordpress/plugins/newsflash/ "Newsflash") page.
 
 == Screenshots ==
 
