@@ -3,7 +3,7 @@ Contributors: HotThemes
 Donate link: http://hot-themes.com/wordpress/plugins/newsflash/
 Tags: tabs, slideshow, rotator
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0
 
 Hot Newsflash by HotThemes is a rotator of the tabs. Each tab contains heading, image, text and more link.
